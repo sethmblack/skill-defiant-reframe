@@ -4,7 +4,7 @@ description: Take an apparent defeat, setback, or failure and reframe it as an o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3804
+  version: 1.0.3805
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - defiant-reframe
